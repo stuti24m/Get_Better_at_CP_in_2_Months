@@ -1,4 +1,4 @@
-# Get_Better_CP_in_2_Months
+# Get_Better_CP_in_2_Months --
 
 [![Join the chat at https://gitter.im/CompetitiveProgramming/community](https://badges.gitter.im/CompetitiveProgramming/community.svg)](https://gitter.im/CompetitiveProgramming/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
